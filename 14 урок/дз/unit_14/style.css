@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: #c48ad3;
+    color: #031679;
+    font-size: 18px;
+}
+
+select {
+    font-size: 120%;
+    background-color: #8f8ad3;
+    ;
+}
